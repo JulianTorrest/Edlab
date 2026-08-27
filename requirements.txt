@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scipy
+beautifulsoup4
+streamlit
+groq
+python-dotenv
+requests
+duckduckgo-search
